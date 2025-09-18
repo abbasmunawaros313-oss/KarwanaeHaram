@@ -7,12 +7,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMOTHc9U1whgepO8AAE0-xaK7xiNjqqVQ",
-  authDomain: "osportalmanagmnet.firebaseapp.com",
-  projectId: "osportalmanagmnet",
-  storageBucket: "osportalmanagmnet.firebasestorage.app",
-  messagingSenderId: "846394060555",
-  appId: "1:846394060555:web:a4c6d3b64af58cd77f3c0e"
+  apiKey: "AIzaSyCaq6q1j0_PkaJF3_ssnbwQbncaTfufl6o",
+  authDomain: "harmaintravelspehswar.firebaseapp.com",
+  projectId: "harmaintravelspehswar",
+  storageBucket: "harmaintravelspehswar.firebasestorage.app",
+  messagingSenderId: "993786104572",
+  appId: "1:993786104572:web:7aba67ab5e341c6e186579",
+  measurementId: "G-BNKLLGKT23"
 };
 
 // Initialize Firebase
