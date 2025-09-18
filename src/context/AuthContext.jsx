@@ -142,7 +142,7 @@ export const AuthProvider = ({ children }) => {
     try {
       checkRateLimit();
 
-      if (email === "adminos@gmail.com" && password === "ospk123") {
+      if (email === "admin@karwan.com" && password === "demo123") {
         const adminUser = { email, uid: "local-admin" };
         setUser(adminUser);
         setIsAdmin(true);
